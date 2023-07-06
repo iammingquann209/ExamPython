@@ -161,3 +161,4 @@ cython_debug/
 #vitual dev env
 .vagrant
 source/.bash*
+source/.sudo_as_admin_successful
